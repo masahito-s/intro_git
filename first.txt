@@ -3,3 +3,4 @@ Gitの練習をしていきます。
 うまい具合にいかん
 ・git add
 ・git commit
+・git rm
